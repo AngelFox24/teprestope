@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/teprestope/static/css/main.5f361e03.chunk.css",
+    "main.js": "/teprestope/static/js/main.c0e5f81d.chunk.js",
+    "main.js.map": "/teprestope/static/js/main.c0e5f81d.chunk.js.map",
+    "runtime-main.js": "/teprestope/static/js/runtime-main.c9181c79.js",
+    "runtime-main.js.map": "/teprestope/static/js/runtime-main.c9181c79.js.map",
+    "static/js/2.25f9a3b3.chunk.js": "/teprestope/static/js/2.25f9a3b3.chunk.js",
+    "static/js/2.25f9a3b3.chunk.js.map": "/teprestope/static/js/2.25f9a3b3.chunk.js.map",
+    "index.html": "/teprestope/index.html",
+    "precache-manifest.4db166cadefc5531233bee116dc6e069.js": "/teprestope/precache-manifest.4db166cadefc5531233bee116dc6e069.js",
+    "service-worker.js": "/teprestope/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/teprestope/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.25f9a3b3.chunk.js.LICENSE.txt": "/teprestope/static/js/2.25f9a3b3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/teprestope/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9181c79.js",
+    "static/js/2.25f9a3b3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c0e5f81d.chunk.js"
+  ]
+}
