@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9bd772212cd4840716ae12cfaf953d49",
+    "revision": "d423dabefbd01bfcbb614c5caa02bb31",
     "url": "/teprestope/index.html"
   },
   {
-    "revision": "0f110974c7511e762961",
+    "revision": "0fb090c06617e441a6e1",
     "url": "/teprestope/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teprestope/static/js/2.25f9a3b3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0f110974c7511e762961",
-    "url": "/teprestope/static/js/main.075ebdc1.chunk.js"
+    "revision": "0fb090c06617e441a6e1",
+    "url": "/teprestope/static/js/main.9228e70e.chunk.js"
   },
   {
     "revision": "5db822bf8cb0aa929d6f",

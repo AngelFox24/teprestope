@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/teprestope/precache-manifest.7c85f4d53e8b451e724d1cb46fac03b1.js"
+  "/teprestope/precache-manifest.2d0e60cd37a451b7e1b485008c72f53f.js"
 );
 
 self.addEventListener('message', (event) => {

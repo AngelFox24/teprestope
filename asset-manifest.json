@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/teprestope/static/css/main.5f361e03.chunk.css",
-    "main.js": "/teprestope/static/js/main.075ebdc1.chunk.js",
-    "main.js.map": "/teprestope/static/js/main.075ebdc1.chunk.js.map",
+    "main.js": "/teprestope/static/js/main.9228e70e.chunk.js",
+    "main.js.map": "/teprestope/static/js/main.9228e70e.chunk.js.map",
     "runtime-main.js": "/teprestope/static/js/runtime-main.c9181c79.js",
     "runtime-main.js.map": "/teprestope/static/js/runtime-main.c9181c79.js.map",
     "static/js/2.25f9a3b3.chunk.js": "/teprestope/static/js/2.25f9a3b3.chunk.js",
     "static/js/2.25f9a3b3.chunk.js.map": "/teprestope/static/js/2.25f9a3b3.chunk.js.map",
     "index.html": "/teprestope/index.html",
-    "precache-manifest.7c85f4d53e8b451e724d1cb46fac03b1.js": "/teprestope/precache-manifest.7c85f4d53e8b451e724d1cb46fac03b1.js",
+    "precache-manifest.2d0e60cd37a451b7e1b485008c72f53f.js": "/teprestope/precache-manifest.2d0e60cd37a451b7e1b485008c72f53f.js",
     "service-worker.js": "/teprestope/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/teprestope/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.25f9a3b3.chunk.js.LICENSE.txt": "/teprestope/static/js/2.25f9a3b3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c9181c79.js",
     "static/js/2.25f9a3b3.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.075ebdc1.chunk.js"
+    "static/js/main.9228e70e.chunk.js"
   ]
 }
