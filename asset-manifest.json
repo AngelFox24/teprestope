@@ -1,22 +1,23 @@
 {
   "files": {
     "main.css": "/teprestope/static/css/main.ec30b127.chunk.css",
-    "main.js": "/teprestope/static/js/main.130ff348.chunk.js",
-    "main.js.map": "/teprestope/static/js/main.130ff348.chunk.js.map",
+    "main.js": "/teprestope/static/js/main.728cf815.chunk.js",
+    "main.js.map": "/teprestope/static/js/main.728cf815.chunk.js.map",
     "runtime-main.js": "/teprestope/static/js/runtime-main.c9181c79.js",
     "runtime-main.js.map": "/teprestope/static/js/runtime-main.c9181c79.js.map",
-    "static/js/2.366df009.chunk.js": "/teprestope/static/js/2.366df009.chunk.js",
-    "static/js/2.366df009.chunk.js.map": "/teprestope/static/js/2.366df009.chunk.js.map",
+    "static/js/2.6a19dbbe.chunk.js": "/teprestope/static/js/2.6a19dbbe.chunk.js",
+    "static/js/2.6a19dbbe.chunk.js.map": "/teprestope/static/js/2.6a19dbbe.chunk.js.map",
     "index.html": "/teprestope/index.html",
-    "precache-manifest.ddb841e895da2a6e9b5bac29689a7399.js": "/teprestope/precache-manifest.ddb841e895da2a6e9b5bac29689a7399.js",
+    "precache-manifest.5622ee1943ec6ebc113ed4f5b8afb26b.js": "/teprestope/precache-manifest.5622ee1943ec6ebc113ed4f5b8afb26b.js",
     "service-worker.js": "/teprestope/service-worker.js",
     "static/css/main.ec30b127.chunk.css.map": "/teprestope/static/css/main.ec30b127.chunk.css.map",
-    "static/js/2.366df009.chunk.js.LICENSE.txt": "/teprestope/static/js/2.366df009.chunk.js.LICENSE.txt"
+    "static/js/2.6a19dbbe.chunk.js.LICENSE.txt": "/teprestope/static/js/2.6a19dbbe.chunk.js.LICENSE.txt",
+    "static/media/maxresdefault.jpg": "/teprestope/static/media/maxresdefault.dd7916d4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c9181c79.js",
-    "static/js/2.366df009.chunk.js",
+    "static/js/2.6a19dbbe.chunk.js",
     "static/css/main.ec30b127.chunk.css",
-    "static/js/main.130ff348.chunk.js"
+    "static/js/main.728cf815.chunk.js"
   ]
 }
