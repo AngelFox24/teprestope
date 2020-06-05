@@ -1,20 +1,25 @@
 import React from 'react'
+import { Button,Navbar,Form } from 'react-bootstrap';
 import './header.css'
+import logo from './trabajo-en-equipo.png'
+
+console.log(logo);
 
 function Header(){
-    return (       
-        <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
-            <a className="navbar-brand " href="#">TePrestope</a>
-            <div className="collapse navbar-collapse" id="navbarColor01"></div>
-            <button type="button" className="btn btn-warning my-2 my-sm-0">Mis Juntas</button>
-            
-            <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
-                <span className="navbar-toggler-icon"></span>
-            </button>
-
-            
-        </nav>
-    )
+    return (
+                <>
+                <Navbar expand="sm" bg="primary" variant="light">
+                    <img src={logo} alt="Logo" expand="sm"/>
+                    <Navbar.Brand href="#home">Navbar</Navbar.Brand>
+                    <Form>
+                        <Button variant="warning" >Mis Juntas</Button>{' '}
+                        <Button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+                            <span className="navbar-toggler-icon"></span>
+                        </Button>{' '}
+                    </Form>                    
+                </Navbar>
+                </>
+            )
 }
 
 export default Header;
