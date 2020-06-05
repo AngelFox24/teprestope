@@ -2,7 +2,7 @@ import React from 'react'
 
 function Slider(){
     return (
-        <h1>Hola mundo Slider</h1>
+        <h2>Hola mundo Slider</h2>
     )
 }
 

@@ -1,8 +1,8 @@
-import React, {Fragment} from 'react';
+import React from 'react';
 import './components/globals.css'
-import Header from './components/header.js'
-import Slider from './components/slider.js'
-import Footer from './components/footer.js'
+import Header from './components/header'
+import Slider from './components/slider'
+import Footer from './components/footer'
 
 function App() {
   return (
