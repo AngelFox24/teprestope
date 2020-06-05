@@ -1,16 +1,17 @@
-import React from 'react';
-
+import React, {Fragment} from 'react';
+import './components/globals.css'
+import Header from './components/header.js'
+import Slider from './components/slider.js'
+import Footer from './components/footer.js'
 
 function App() {
   return (
-    <div className="App">
-
-      <p>
-        hola mundo cruel
-      </p>
-
-    </div>
-  );
+    <>
+      <Header />
+      <Slider/>
+      <Footer/>
+    </>
+  )
 }
 
 export default App;
